@@ -1,5 +1,22 @@
 package com.king.kata.yatzy;
 
 public enum Category {
-	CHANCE
+	CHANCE,
+	YATSY,
+	ONES,
+	TWOS,
+	THREES,
+	FOURS,
+	FIVES,
+	SIXES,
+	PAIR,
+	TWOPAIRS,
+	THREEOFACIND,
+	FOUROFACIND,
+	SMALLSTRAIT,
+	LARGESTRAIT,
+	FULLHOUSE,
+
+
+
 }
