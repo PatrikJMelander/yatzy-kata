@@ -1,3 +1,7 @@
+THIS IS A SCHOOL ASSIGNMENT PROVIDED BY Per Malmén
+I have only coded the tests and methods to pass the tests, Not the full project
+
+
 # Kata description
 The objective of this kata is to build a scoring "service". You're not expected to write a complete game with
 dice rolls and automatic best hand selections (although you can if you want to and have time). Rather, given
